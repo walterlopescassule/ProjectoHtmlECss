@@ -49,4 +49,10 @@
 
     #button:hover {
         transform: scale(1.05); 
+    } 
+
+    h1 {
+        font-family: 'Fira Sans';
+        font-size: 40px;
+        color: rgb(51, 49, 49);
     }
