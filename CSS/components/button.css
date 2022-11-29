@@ -6,6 +6,8 @@
             box-shadow: 5px 5px 0 #bdc3c7;
             margin: 0;
             transition: transform 150ms lcubic-bezier(.74,-0.32,0,1.78);
+            font-size: 20px;
+            color: whitesmoke;
         }
 
         .button:hover {
