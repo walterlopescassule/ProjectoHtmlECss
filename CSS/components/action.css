@@ -6,7 +6,8 @@
     font-family: "Fira Sans semiBold";
     font-weight: 400;
     text-decoration: none;
-    margin-right: 25px;  
+    margin-right: 25px;
+      
 }
 
 .action::before {
