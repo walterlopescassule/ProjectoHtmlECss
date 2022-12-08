@@ -1,0 +1,17 @@
+.habilidades-tech {
+    display: flex;
+    font-family: 'Press Start 2P';
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.habilidades-tech .icon {
+    margin-right: 25px;
+     
+}
+
+.habilidades-tech .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
