@@ -8,6 +8,7 @@
 
 .habilidades-tech .icon {
     margin-right: 25px;
+    width: 90px;
      
 }
 
@@ -15,4 +16,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.habilidades-tech .title {
+    margin-bottom: 10px;
 }

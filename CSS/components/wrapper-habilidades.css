@@ -1,0 +1,23 @@
+.wrapper-habilidades {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.wrapper-habilidades .habilidades-tech {
+    width: 440px;
+}
+
+.wrapper-habilidades .habilidades-tech:nth-child(odd) {
+    margin-right: 80px;
+    margin-bottom: 50px;
+    
+}
+
+.wrapper-habilidades .progress-bar {
+    width: 320px;
+}
+
