@@ -1,5 +1,6 @@
 .habilidades-tech {
     display: flex;
+    align-items: center;
     font-family: 'Press Start 2P';
     font-size: 25px;
     color: whitesmoke;
