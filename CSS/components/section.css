@@ -1,11 +1,24 @@
 .section {
     background-color: #908C8C;
     padding-top: 50px;
-    padding-bottom: 100px;
     border-bottom: 10px solid #000;
     
 }
 
 .section .main-title {
     margin-bottom: 40px;
+}
+
+.section .-bgBlack {
+    background-color: #000;
+    height: 100px;
+}
+
+.section .-bdFirst {
+    border-bottom: #908C8C;
+}
+
+p {
+    color: #fff;
+    text-align: center;
 }
